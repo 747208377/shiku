@@ -1,0 +1,4115 @@
+极简模式- 新皮肤
+
+群组列表读取本地
+
+
+CHANGES
+haixiao · 18:00 · 2 hours ago
+13,390 working
+5766 置顶一个群聊，从通讯录选择任一好友发起会话，返回到消息列表，列表显示异常
+ 
+
+
+CHANGES
+haixiao · 14:36 · 5 hours ago
+13,358
+加好友对方验证后，对方信息界面刷新后排版错乱fix
+
+
+CHANGES
+zhanghui · 14:25 · 5 hours ago
+13,357
+多点登录消息同步
+
+
+CHANGES
+zhanghui · 11:43 · 8 hours ago
+13,349
+fix
+
+
+CHANGES
+zhanghui · 11:42 · 8 hours ago
+13,348
+在线状态服务器控制
+
+
+CHANGES
+zhanghui · 09:59 · 10 hours ago
+13,341
+群助手点击fix
+
+
+CHANGES
+2019年7月3日 星期三
+zhanghui · 16:59 · 1 day ago
+13,313
+优化标签和黑名单列表接口
+
+
+CHANGES
+zhanghui · 14:30 · 1 day ago
+13,309
+fix
+
+
+CHANGES
+zhanghui · 11:56 · 1 day ago
+13,306
+发送群组消息formUserName为空处理
+
+
+CHANGES
+2019年7月2日 星期二
+zhanghui · 16:35 · 2 days ago
+13,270
+群成员分页为50条
+
+
+CHANGES
+zhanghui · 16:34 · 2 days ago
+13,269
+version:6.2.2  build:20190701
+
+
+CHANGES
+zhanghui · 16:34 · 2 days ago
+13,267
+Fix
+
+
+CHANGES
+zhanghui · 16:14 · 2 days ago
+13,265
+消息漫游条数改为50条
+
+
+CHANGES
+zhanghui · 16:11 · 2 days ago
+13,263
+优化重连机制
+
+
+CHANGES
+haixiao · 09:32 · 2 days ago
+13,232
+config  添加字段 ——> 是否显示群组搜索、隐私群组
+
+
+CHANGES
+2019年7月1日 星期一
+zhanghui · 18:01 · 3 days ago
+13,206
+Jitsi 静态库更新
+
+
+CHANGES
+2019年6月28日 星期五
+haixiao · 20:54 · 5 days ago
+13,165
+音频上传 先改成以前的
+
+
+CHANGES
+haixiao · 20:15 · 5 days ago
+13,163
+fix
+
+
+CHANGES
+haixiao · 20:02 · 6 days ago
+13,161
+fix
+
+
+CHANGES
+zhanghui · 17:35 · 6 days ago
+13,146
+朋友圈发送视频可选择拍摄
+
+
+CHANGES
+haixiao · 16:24 · 6 days ago
+13,131
+音频文件 上传 用单独的接口
+
+
+CHANGES
+haixiao · 15:07 · 6 days ago
+13,125
+解决 iOS 8.0 崩溃问题 
+
+
+CHANGES
+zhanghui · 10:07 · 6 days ago
+13,104
+通话时长格式化
+
+
+CHANGES
+2019年6月27日 星期四
+zhanghui · 16:50 · 7 days ago
+13,081
+Fix 
+
+
+CHANGES
+zhanghui · 16:49 · 7 days ago
+13,080
+Fix 
+
+
+CHANGES
+zhanghui · 16:49 · 7 days ago
+13,079
+Fix 
+
+
+CHANGES
+haixiao · 16:35 · 7 days ago
+13,077
+新版本提示 优化
+
+
+CHANGES
+haixiao · 14:35 · 7 days ago
+13,070
+打开红包 开 动画 显示有问题 fix
+
+
+CHANGES
+zhanghui · 11:57 · 7 days ago
+13,063
+对讲机界面调整
+
+
+CHANGES
+2019年6月26日 星期三
+haixiao · 14:55 · 8 days ago
+13,025
+生活圈点赞，视频cell 闪动 fix
+
+
+CHANGES
+zhanghui · 11:36 · 8 days ago
+13,018
+后台全量推送点击打开浏览器
+
+
+CHANGES
+2019年6月25日 星期二
+haixiao · 15:04 · 9 days ago
+12,987
+消息界面快速回复 ，阅后即焚状态 下 是普通消息 fix
+
+
+CHANGES
+zhanghui · 11:14 · 9 days ago
+12,966
+5032 语音通话，APP切后台，能正常通话，但是30s左右，会自动挂掉。
+
+
+CHANGES
+2019年6月24日 星期一
+zhanghui · 15:21 · 10 days ago
+12,934
+收到511消息崩溃问题 fix
+
+
+CHANGES
+haixiao · 10:08 · 10 days ago
+12,900
+个人信息界面通讯号显示位置和可点击符号重叠 fix
+
+
+CHANGES
+2019年6月21日 星期五
+zhanghui · 19:47 · 13 days ago
+12,895
+对讲机功能
+
+
+CHANGES
+zhanghui · 18:01 · 13 days ago
+12,891
+短视频录制加水印
+
+
+CHANGES
+haixiao · 15:24 · 13 days ago
+12,881
+ website;//官方网址  为空，用户二维码扫码有问题
+
+
+CHANGES
+haixiao · 15:12 · 13 days ago
+12,880
+群组设置 界面显示人数  未即时更新 fix
+
+
+CHANGES
+haixiao · 10:49 · 13 days ago
+12,871
+群组修改备注后，长按头像@显示的是备注名称 fix
+
+
+CHANGES
+haixiao · 10:49 · 13 days ago
+12,870
+fix
+
+
+CHANGES
+2019年6月20日 星期四
+zhanghui · 16:13 · 2 weeks ago
+12,836
+5535 在个人信息详情页，点击所在位置，地图没有加载出来，也不定位 fix
+
+
+CHANGES
+haixiao · 15:25 · 2 weeks ago
+12,833
+极光第二部分   &  用户协议config字段
+
+
+CHANGES
+zhanghui · 12:31 · 2 weeks ago
+12,825
+短视频列表显示图片拉伸问题 fix
+
+
+CHANGES
+2019年6月19日 星期三
+zhanghui · 15:14 · 2 weeks ago
+12,801
+扫描收付款崩溃问题fix
+
+
+CHANGES
+2019年6月17日 星期一
+zhanghui · 17:00 · 2 weeks ago
+12,722
+Version:6.1.8   build:20190613
+
+
+CHANGES
+2019年6月16日 星期日
+zhanghui · 17:39 · 2 weeks ago
+12,701
+5524 ios转发多选列表，点击有选中效果（没有点复选按钮位置），但是实际没有选中
+
+
+CHANGES
+zhanghui · 17:19 · 2 weeks ago
+12,700
+ios更改头像后，聊天页头像没有即时更新，要退出重进才会更新
+
+
+CHANGES
+haixiao · 11:44 · 2 weeks ago
+12,692
+阅后即焚消息  禁止  长按消息 回复
+
+
+CHANGES
+2019年6月16日 星期日
+haixiao · 09:50 · 2 weeks ago
+12,663
+隐私设置显示问题 fix
+
+
+CHANGES
+2019年6月13日 星期四
+haixiao · 22:39 · 2 weeks ago
+12,658
+fix
+
+
+CHANGES
+haixiao · 22:28 · 2 weeks ago
+12,656
+fix
+
+
+CHANGES
+haixiao · 22:28 · 2 weeks ago
+12,655
+极光推送  第一部分
+
+
+CHANGES
+haixiao · 18:28 · 3 weeks ago
+12,633
+打开  公告编辑
+
+
+CHANGES
+haixiao · 18:28 · 3 weeks ago
+12,632
+打开  群复制
+
+
+CHANGES
+haixiao · 18:25 · 3 weeks ago
+12,631
+xmpp 隐私设置、好友状态， 单群聊设置 多点登录即时更新
+
+
+CHANGES
+haixiao · 18:13 · 3 weeks ago
+12,630
+生活圈 顶部图片中的菜单 ipad 适配
+
+
+CHANGES
+zhanghui · 16:09 · 3 weeks ago
+12,627
+按钮出发其他事件bug  fix
+
+
+CHANGES
+haixiao · 12:12 · 3 weeks ago
+12,619
+share 改为 支持 ios 9.0以上
+
+
+CHANGES
+zhanghui · 10:48 · 3 weeks ago
+12,611
+聊天记录迁移  更新消息列表  fix
+
+
+CHANGES
+2019年6月12日 星期三
+haixiao · 15:32 · 3 weeks ago
+12,591
+复制 中括号的非表情文字，崩溃 fix
+
+
+CHANGES
+haixiao · 14:25 · 3 weeks ago
+12,590
+扫一扫 和部分相册扫描二维码  网页无法显示fix
+
+
+CHANGES
+haixiao · 11:54 · 3 weeks ago
+12,586
+fix
+
+
+CHANGES
+zhanghui · 11:24 · 3 weeks ago
+12,585
+消息任务优化
+
+
+CHANGES
+zhanghui · 09:47 · 3 weeks ago
+12,577
+Fix
+
+
+CHANGES
+2019年6月11日 星期二
+zhanghui · 15:41 · 3 weeks ago
+12,558
+Web扫码登录
+
+
+CHANGES
+zhanghui · 14:55 · 3 weeks ago
+12,557
+fix
+
+
+CHANGES
+zhanghui · 12:04 · 3 weeks ago
+12,552
+聊天记录迁移
+
+
+CHANGES
+haixiao · 11:28 · 3 weeks ago
+12,546
+fix
+
+
+CHANGES
+haixiao · 10:00 · 3 weeks ago
+12,530
+fix
+
+
+CHANGES
+2019年6月6日 星期四
+haixiao · 17:37 · 4 weeks ago
+12,483
+修改公告   控制消息
+
+
+CHANGES
+haixiao · 16:40 · 4 weeks ago
+12,478
+群复制  -暂时隐藏
+
+
+CHANGES
+haixiao · 16:30 · 4 weeks ago
+12,475
+群复制
+
+
+CHANGES
+haixiao · 10:11 · 4 weeks ago
+12,458
+拍摄长按取消偶尔  出现没拍摄成功 fix
+
+
+CHANGES
+haixiao · 09:40 · 4 weeks ago
+12,456
+拍摄预览界面 发送、返回按钮偶尔未显示问题 fix
+
+
+CHANGES
+2019年6月5日 星期三
+haixiao · 19:23 · 4 weeks ago
+12,446
+红包详情中  回复感谢语言，用手写输入法 崩溃 fix
+
+
+CHANGES
+haixiao · 18:30 · 4 weeks ago
+12,444
+减少红包打开时间 
+
+
+CHANGES
+zhanghui · 10:23 · 4 weeks ago
+12,417
+转发多选
+
+
+CHANGES
+2019年6月4日 星期二
+haixiao · 17:22 · 4 weeks ago
+12,404
+扫一扫网页二维码 无法正常显示 fix
+
+
+CHANGES
+zhanghui · 15:10 · 4 weeks ago
+12,393
+Ceshi
+
+
+CHANGES
+zhanghui · 14:44 · 4 weeks ago
+12,388
+首页快速删除
+
+
+CHANGES
+2019年6月3日 星期一
+zhanghui · 18:24 · 4 weeks ago
+12,363
+一键登录编码问题 
+
+
+CHANGES
+zhanghui · 17:32 · 4 weeks ago
+12,359
+上拉加载提前自动加载
+
+
+CHANGES
+2019年5月31日 星期五
+zhanghui · 18:17 · 4 weeks ago
+12,300
+fix
+
+
+CHANGES
+zhanghui · 17:50 · 4 weeks ago
+12,297
+fix
+
+
+CHANGES
+zhanghui · 16:45 · 4 weeks ago
+12,287
+群助手功能完善
+
+
+CHANGES
+haixiao · 12:33 · 4 weeks ago
+12,271
+群助手点击发送没 保存到数据库 fix
+
+
+CHANGES
+zhanghui · 11:53 · 4 weeks ago
+12,260
+注册验证手机号传区号
+
+
+CHANGES
+haixiao · 11:52 · 4 weeks ago
+12,259
+群助手
+
+
+CHANGES
+haixiao · 10:44 · 4 weeks ago
+12,248
+公告编辑（暂时隐藏）
+
+
+CHANGES
+2019年5月30日 星期四
+haixiao · 19:32 · 5 weeks ago
+12,220
+iphone 6   6p  拍摄视频 未显示退出和发送按钮 fix
+
+
+CHANGES
+zhanghui · 19:01 · 5 weeks ago
+12,215
+更新优化jitsi静态库  全部文案汉化
+
+
+CHANGES
+zhanghui · 12:20 · 5 weeks ago
+12,184
+私密群组开关
+
+
+CHANGES
+haixiao · 12:03 · 5 weeks ago
+12,182
+单聊转账记录问题 fix
+
+
+CHANGES
+zhanghui · 11:37 · 5 weeks ago
+12,179
+音视频异常断线  再次拨打 优化处理
+
+
+CHANGES
+2019年5月29日 星期三
+zhanghui · 19:46 · 5 weeks ago
+12,158
+视频播放自适应  不全屏播放
+
+
+CHANGES
+zhanghui · 17:12 · 5 weeks ago
+12,141
+5404 视频点开加载的时候再次点击无法缩小，一直加载转圈圈
+
+
+CHANGES
+zhanghui · 15:17 · 5 weeks ago
+12,128
+第三方应用调取IM支付成功通知
+
+
+CHANGES
+2019年5月28日 星期二
+zhanghui · 15:34 · 5 weeks ago
+12,078
+H5 一键登录
+
+
+CHANGES
+2019年5月28日 星期二
+haixiao · 11:36 · 5 weeks ago
+12,065
+消息回执（发送给服务器）       (每秒执行一次，判断5秒没发回执就发一次，或者消息数量大于100也发一次)
+
+
+CHANGES
+zhanghui · 10:04 · 5 weeks ago
+12,056
+压测消息排序问题 fix
+
+
+CHANGES
+2019年5月27日 星期一
+zhanghui · 17:58 · 5 weeks ago
+12,035
+群组离线消息丢失问题
+
+
+CHANGES
+zhanghui · 10:31 · 5 weeks ago
+12,001
+热门应用后台配置
+
+
+CHANGES
+2019年5月24日 星期五
+haixiao · 17:31 · 5 weeks ago
+11,970
+不看他的朋友圈和视频选项（用户信息中），暂时隐藏
+
+
+CHANGES
+haixiao · 16:11 · 5 weeks ago
+11,964
+收到xmpp 消息  不发回执， 200消息除外
+
+
+CHANGES
+haixiao · 16:08 · 5 weeks ago
+11,963
+fix
+
+
+CHANGES
+haixiao · 16:07 · 5 weeks ago
+11,962
+fix
+
+
+CHANGES
+haixiao · 16:06 · 5 weeks ago
+11,961
+地图定位 无权限提醒
+
+
+CHANGES
+haixiao · 15:31 · 5 weeks ago
+11,957
+图库仿微信添加 无权限提醒
+
+
+CHANGES
+2019年5月23日 星期四
+haixiao · 16:49 · 6 weeks ago
+11,906
+生活圈  发布 wav 格式文件，显示不出来 fix
+
+
+CHANGES
+haixiao · 15:27 · 6 weeks ago
+11,897
+扫一扫无法识别 图库二维码支付款
+
+
+CHANGES
+haixiao · 10:47 · 6 weeks ago
+11,883
+图库 支持发送icloud视频数据
+
+
+CHANGES
+haixiao · 10:11 · 6 weeks ago
+11,880
+如果系统中存在 越语语言，隐私设置-允许加我的方式，多选列表布局错乱      fix
+
+
+CHANGES
+2019年5月22日 星期三
+haixiao · 18:25 · 6 weeks ago
+11,855
+百度地图 和 google地图  随地区自动适应，中国大陆使用百度地图， 其他地区或国家 使用google， 取消隐私设置- google地图 选项
+
+
+CHANGES
+haixiao · 10:56 · 6 weeks ago
+11,809
+webview url存在中文或其他特殊字符 导致 无法正常访问  fix
+
+
+CHANGES
+2019年5月21日 星期二
+haixiao · 12:09 · 6 weeks ago
+11,745
+视频播放时进入前台，接着之前的视频进行播放
+
+
+CHANGES
+haixiao · 10:32 · 6 weeks ago
+11,734
+聊天界面和生活圈  视频播放时切换到后台 卡死  fix
+
+
+CHANGES
+haixiao · 10:31 · 6 weeks ago
+11,733
+双向清空聊天记录提示框内容fix
+
+
+CHANGES
+2019年5月18日 星期六
+haixiao · 16:43 · 6 weeks ago
+11,625
+撤回加等待符（撤回接口调用很慢）
+
+
+CHANGES
+2019年5月17日 星期五
+zhanghui · 17:26 · 6 weeks ago
+11,585
+网页调起视酷支付  &  浏览器网址分享到视酷
+
+
+CHANGES
+2019年5月16日 星期四
+haixiao · 15:25 · 7 weeks ago
+11,495
+5142 建群/新拉用户进群，该用户一直处于离线状态（没有登录过），登录后拉取不到群历史消息/拉取消息很慢
+
+
+CHANGES
+haixiao · 11:52 · 7 weeks ago
+11,480
+获取多点登录设备列表时userid不对，导致在线离线状态不会更新  &   发通知即时更新设备列表在线离线状态
+
+
+CHANGES
+2019年5月15日 星期三
+haixiao · 17:17 · 7 weeks ago
+11,415
+发现界面显示朋友圈时，播放视频tabbar 未隐藏  fix
+
+
+CHANGES
+haixiao · 17:06 · 7 weeks ago
+11,414
+用户信息手机号  ， 用phone 字段显示
+
+
+CHANGES
+haixiao · 15:49 · 7 weeks ago
+11,409
+用户注册时，隐藏隐私设置-谁可以看到我的手机号，和用户信息的显示        
+
+
+CHANGES
+haixiao · 12:03 · 7 weeks ago
+11,393
+设置用户描述 时，水印会被识别成内容， fix
+
+
+CHANGES
+haixiao · 09:22 · 7 weeks ago
+11,372
+群从头像进入设置界面未更新头像
+
+
+CHANGES
+2019年5月14日 星期二
+zhanghui · 19:20 · 7 weeks ago
+11,363
+图片加载失败点击闪退问题 fix
+
+
+CHANGES
+haixiao · 15:42 · 7 weeks ago
+11,329
+5096 a发起语音/视频，b拒绝，双方都显示对方无应答（拒绝的一方应显示为取消了视频通话/已拒绝）跟Android一样
+
+
+CHANGES
+zhanghui · 14:32 · 7 weeks ago
+11,324
+朋友圈推送 & 加好友操作推送 点击进入指定页面
+
+
+CHANGES
+haixiao · 11:00 · 7 weeks ago
+11,316
+fix
+
+
+CHANGES
+haixiao · 10:45 · 7 weeks ago
+11,315
+fix
+
+
+CHANGES
+haixiao · 10:41 · 7 weeks ago
+11,313
+fix
+
+
+CHANGES
+2019年5月13日 星期一
+zhanghui · 17:28 · 7 weeks ago
+11,281
+网页分享自定义 & h5录制播放语音  &  链接可分享到微信好友和微信朋友圈
+
+
+CHANGES
+haixiao · 17:11 · 7 weeks ago
+11,279
+fix
+
+
+CHANGES
+haixiao · 15:09 · 7 weeks ago
+11,262
+showMsg 默认隐藏时间改为1 秒
+
+
+CHANGES
+haixiao · 12:10 · 7 weeks ago
+11,244
+我的课程无法正常删除消息内容 fix
+
+
+CHANGES
+zhanghui · 10:49 · 7 weeks ago
+11,226
+Version:6.1.5  build:20190510
+
+
+CHANGES
+2019年5月10日 星期五
+haixiao · 20:11 · 7 weeks ago
+11,208
+用户信息-所在位置无法正常查看  fix
+
+
+CHANGES
+haixiao · 15:00 · 7 weeks ago
+11,172
+登录时传的经纬度为空 fix   ，   附近的人刚刚进入地图经纬度为空 fix
+
+
+CHANGES
+2019年5月9日 星期四
+zhanghui · 19:31 · 8 weeks ago
+11,151
+fix
+
+
+CHANGES
+zhanghui · 19:30 · 8 weeks ago
+11,150
+fix
+
+
+CHANGES
+haixiao · 17:57 · 8 weeks ago
+11,144
+生活圈不能从相册获取视频  fix
+
+
+CHANGES
+haixiao · 16:05 · 8 weeks ago
+11,134
+老大账号 附近的人  不提示“位置权限未开启”
+
+
+CHANGES
+zhanghui · 16:00 · 8 weeks ago
+11,132
+消息页无数据，进入聊天页面返回崩溃问题 fix
+
+
+CHANGES
+haixiao · 15:33 · 8 weeks ago
+11,129
+fix
+
+
+CHANGES
+zhanghui · 15:29 · 8 weeks ago
+11,128
+漫游消息控制消息显示 null 问题 fix
+
+
+CHANGES
+zhanghui · 15:28 · 8 weeks ago
+11,127
+imageCell 默认图片
+
+
+CHANGES
+haixiao · 15:13 · 8 weeks ago
+11,125
+下拉加载消息，富文本崩溃 （客户提）
+
+
+CHANGES
+2019年5月9日 星期四
+haixiao · 15:12 · 8 weeks ago
+11,124
+优化
+
+
+CHANGES
+haixiao · 14:57 · 8 weeks ago
+11,119
+清空双方聊天记录
+
+
+CHANGES
+haixiao · 14:38 · 8 weeks ago
+11,116
+fix
+
+
+CHANGES
+haixiao · 09:57 · 8 weeks ago
+11,105
+versionManage  整理
+
+
+CHANGES
+haixiao · 09:21 · 8 weeks ago
+11,099
+图片 进度在屏幕外显示完成后 不会隐藏  fix
+
+
+CHANGES
+2019年5月8日 星期三
+haixiao · 19:29 · 8 weeks ago
+11,078
+用户查看自己用户信息时， 不可设置备注和标签
+
+
+CHANGES
+haixiao · 19:14 · 8 weeks ago
+11,077
+fix
+
+
+CHANGES
+haixiao · 17:29 · 8 weeks ago
+11,070
+config 默认配置，使用json 字符串 解析 后获得
+
+
+CHANGES
+haixiao · 16:13 · 8 weeks ago
+11,068
+设置备注和标签界面 精致优化
+
+
+CHANGES
+zhanghui · 15:58 · 8 weeks ago
+11,067
+获取通讯录崩溃问题 fix
+
+
+CHANGES
+haixiao · 14:47 · 8 weeks ago
+11,062
+附近的人 经纬度 部分 传值 0     fix
+
+
+CHANGES
+haixiao · 12:05 · 8 weeks ago
+11,061
+搜索好友列表，如果没开启位置权限 则提示 搜索方
+
+
+CHANGES
+haixiao · 10:42 · 8 weeks ago
+11,052
+用户界面重构，标签界面逻辑重构
+
+
+CHANGES
+2019年5月6日 星期一
+haixiao · 17:07 · 8 weeks ago
+10,986
+“此群已被群主解散” 改为自动隐藏式的提示
+
+
+CHANGES
+haixiao · 14:30 · 8 weeks ago
+10,979
+version:6.1.4  build:20190505
+
+
+CHANGES
+haixiao · 14:25 · 8 weeks ago
+10,978
+用户信息界面显示通讯号
+
+
+CHANGES
+2019年5月5日 星期日
+haixiao · 16:56 · 8 weeks ago
+10,959
+fix
+
+
+CHANGES
+haixiao · 16:15 · 8 weeks ago
+10,957
+草稿 退出再进入emjoy未显示图片  fix     ，  回复消息水印不保存草稿
+
+
+CHANGES
+haixiao · 15:53 · 8 weeks ago
+10,954
+回复消息，输入emjoy表情会错乱
+
+
+CHANGES
+haixiao · 10:33 · 8 weeks ago
+10,949
+权限描述修改
+
+
+CHANGES
+2019年4月30日 星期二
+zhanghui · 17:15 · 2 months ago
+10,942
+version:6.1.3  build:20190430
+
+
+CHANGES
+haixiao · 10:41 · 2 months ago
+10,893
+回复消息时，如果是语音输入框， 则不会切换到文件输入框
+
+
+CHANGES
+haixiao · 10:00 · 2 months ago
+10,881
+群组 清空聊天记录 添加二次确认
+
+
+CHANGES
+2019年4月29日 星期一
+haixiao · 18:56 · 2 months ago
+10,871
+用户信息界面 布局错乱问题 fix
+
+
+CHANGES
+zhanghui · 17:18 · 2 months ago
+10,855
+发送表情不缩键盘
+
+
+CHANGES
+zhanghui · 17:04 · 2 months ago
+10,850
+4974 生活圈的评论，文字压在底部，上边留白比较大
+
+
+CHANGES
+haixiao · 15:19 · 2 months ago
+10,834
+fix
+
+
+CHANGES
+haixiao · 11:58 · 2 months ago
+10,817
+清除缓存  显示文件大小
+
+
+CHANGES
+haixiao · 11:06 · 2 months ago
+10,808
+隐藏 replayKit  框架使用内容
+
+
+CHANGES
+2019年4月28日 星期日
+haixiao · 19:55 · 2 months ago
+10,788
+聊天界面支持 GIF 图片发送， 优化原图、缩略图相关代码逻辑
+
+
+CHANGES
+haixiao · 18:23 · 2 months ago
+10,773
+4932 单聊、群聊发送名片消息，标签添加成员，好友选择器最后一个字被“*”代替
+
+
+CHANGES
+haixiao · 18:10 · 2 months ago
+10,771
+4931 单聊红包，领取后不应该出现手气最佳
+
+
+CHANGES
+zhanghui · 15:07 · 2 months ago
+10,735
+我的同事点击添加员工崩溃问题 fix
+
+
+CHANGES
+zhanghui · 12:15 · 2 months ago
+10,726
+快速滑动消息看不见问题
+
+
+CHANGES
+zhanghui · 11:27 · 2 months ago
+10,717
+聊天界面显示到最后一行问题 fix
+
+
+CHANGES
+haixiao · 10:23 · 2 months ago
+10,710
+  share extension AFNetwork 框架 偶尔 网络情况报错  fix
+
+
+CHANGES
+haixiao · 10:11 · 2 months ago
+10,706
+fix
+
+
+CHANGES
+2019年4月26日 星期五
+haixiao · 20:06 · 2 months ago
+10,671
+4921 评论200条后，退后一个数字为1和7时，才显示数字，其他尾数显示为“...”
+
+
+CHANGES
+haixiao · 18:08 · 2 months ago
+10,665
+新添加  231条  国际化
+
+
+CHANGES
+haixiao · 15:35 · 2 months ago
+10,638
+修复回复图片、语音、视频等消息  崩溃问题 
+
+
+CHANGES
+2019年4月25日 星期四
+haixiao · 18:10 · 2 months ago
+10,590
+fix
+
+
+CHANGES
+zhanghui · 17:30 · 2 months ago
+10,584
+fix
+
+
+CHANGES
+haixiao · 14:37 · 2 months ago
+10,571
+公众号不显示 手机号和在线时间
+
+
+CHANGES
+zhanghui · 11:54 · 2 months ago
+10,566
+fix
+
+
+CHANGES
+haixiao · 11:50 · 2 months ago
+10,565
+4585 IOS端消息模块，点击+号下的添加朋友和附近的人前面的UI图标有点模糊，可以优化一下。
+
+
+CHANGES
+haixiao · 11:22 · 2 months ago
+10,559
+fix
+
+
+CHANGES
+zhanghui · 10:24 · 2 months ago
+10,551
+课程为空 发送奔溃问题 fix
+
+
+CHANGES
+zhanghui · 09:16 · 2 months ago
+10,540
+退后台被快速杀死 fix
+
+
+CHANGES
+2019年4月24日 星期三
+haixiao · 16:29 · 2 months ago
+10,517
+生活圈    禁止评论
+
+
+CHANGES
+zhanghui · 15:45 · 2 months ago
+10,510
+Fix
+
+
+CHANGES
+2019年4月24日 星期三
+zhanghui · 14:59 · 2 months ago
+10,503
+下拉加载更多 闪动问题优化
+
+
+CHANGES
+zhanghui · 12:13 · 2 months ago
+10,497
+Fix
+
+
+CHANGES
+haixiao · 11:56 · 2 months ago
+10,496
+禁止私聊时，群员昵称用*代替最后一个字
+
+
+CHANGES
+zhanghui · 09:33 · 2 months ago
+10,481
+聊天页面优化
+
+
+CHANGES
+2019年4月23日 星期二
+haixiao · 20:19 · 2 months ago
+10,471
+fix
+
+
+CHANGES
+haixiao · 20:18 · 2 months ago
+10,470
+fix
+
+
+CHANGES
+haixiao · 19:50 · 2 months ago
+10,465
+fix
+
+
+CHANGES
+haixiao · 18:32 · 2 months ago
+10,459
+很多界面 头像未显示 fix
+
+
+CHANGES
+haixiao · 18:12 · 2 months ago
+10,455
+fix
+
+
+CHANGES
+haixiao · 18:11 · 2 months ago
+10,454
+二维码未显示群头像 fix
+
+
+CHANGES
+haixiao · 17:43 · 2 months ago
+10,450
+fix
+
+
+CHANGES
+haixiao · 17:34 · 2 months ago
+10,448
+fix
+
+
+CHANGES
+haixiao · 17:30 · 2 months ago
+10,447
+回复消息类型  高度不对
+
+
+CHANGES
+haixiao · 17:18 · 2 months ago
+10,446
+附近的人 性别筛选
+
+
+CHANGES
+haixiao · 15:11 · 2 months ago
+10,429
+收到全员禁言消息  ，收键盘
+
+
+CHANGES
+haixiao · 14:49 · 2 months ago
+10,426
+设置群头像
+
+
+CHANGES
+haixiao · 11:49 · 2 months ago
+10,408
+fix
+
+
+CHANGES
+haixiao · 10:57 · 2 months ago
+10,401
+转账记录
+
+
+CHANGES
+haixiao · 10:57 · 2 months ago
+10,400
+关闭红包  取消扫码支付
+
+
+CHANGES
+2019年4月22日 星期一
+zhanghui · 14:59 · 2 months ago
+10,352
+内存泄漏问题
+
+
+CHANGES
+zhanghui · 10:29 · 2 months ago
+10,342
+视酷号改为通讯号
+
+
+CHANGES
+zhanghui · 10:27 · 2 months ago
+10,341
+设置通讯号后 无法更新个人信息问题 fix
+
+
+CHANGES
+2019年4月20日 星期六
+zhanghui · 17:07 · 2 months ago
+10,331
+fix
+
+
+CHANGES
+zhanghui · 17:05 · 2 months ago
+10,330
+Version:6.1.2  build：20190420
+
+
+CHANGES
+zhanghui · 15:32 · 2 months ago
+10,322
+他人的朋友圈和收藏不显示发动态图标
+
+
+CHANGES
+haixiao · 10:08 · 2 months ago
+10,307
+隐私设置- 谁可以看到我的手机号码
+
+
+CHANGES
+2019年4月19日 星期五
+haixiao · 20:18 · 2 months ago
+10,300
+隐私设置 - 上次在线时间
+
+
+CHANGES
+haixiao · 16:51 · 2 months ago
+10,271
+红包领取完与发送时间差显示
+
+
+CHANGES
+zhanghui · 10:45 · 2 months ago
+10,229
+邀请手机联系人图标显示不出问题 fix
+
+
+CHANGES
+2019年4月18日 星期四
+haixiao · 14:41 · 2 months ago
+10,170
+描述如果 添加的是 手机号码，便可长按拨打
+
+
+CHANGES
+zhanghui · 11:51 · 2 months ago
+10,162
+Fix
+
+
+CHANGES
+zhanghui · 11:37 · 2 months ago
+10,158
+4508 注册页面，填写手机号，密码，图形码、获取验证码并填写后，修改手机号，点击注册成功  处理优化
+
+
+CHANGES
+haixiao · 10:44 · 2 months ago
+10,152
+备注、 描述、标签  三合一
+
+
+CHANGES
+haixiao · 10:43 · 2 months ago
+10,151
+发现界面 顶部图片 config设置
+
+
+CHANGES
+haixiao · 10:41 · 2 months ago
+10,150
+隐私设置  -  加好友来源限制  ， 手机、昵称 搜索好友限制
+
+
+CHANGES
+haixiao · 10:38 · 2 months ago
+10,149
+朋友圈添加 新菜单栏 
+
+
+CHANGES
+zhanghui · 10:00 · 2 months ago
+10,139
+查找聊天记录图片与视频拆分
+
+
+CHANGES
+zhanghui · 09:45 · 2 months ago
+10,138
+更改短信邀请内容
+
+
+CHANGES
+2019年4月17日 星期三
+haixiao · 20:02 · 2 months ago
+10,126
+fix
+
+
+CHANGES
+haixiao · 19:38 · 2 months ago
+10,121
+fix
+
+
+CHANGES
+haixiao · 19:38 · 2 months ago
+10,120
+头像 加阴影， 用户协议修改到注册界面
+
+
+CHANGES
+zhanghui · 19:31 · 2 months ago
+10,119
+主播没有退出  提示主播已停止直播  问题 fix
+
+
+CHANGES
+haixiao · 17:10 · 2 months ago
+10,105
+短信登录 优化  &&  登录界面 logo改大，整体上调
+
+
+CHANGES
+zhanghui · 16:37 · 2 months ago
+10,103
+音视频聊天 邀请好友问题
+
+
+CHANGES
+haixiao · 15:40 · 2 months ago
+10,097
+红包领取 手慢了，添加新状态
+
+
+CHANGES
+zhanghui · 11:11 · 2 months ago
+10,079
+测试
+
+
+CHANGES
+zhanghui · 11:03 · 2 months ago
+10,068
+11111
+
+
+CHANGES
+zhanghui · 11:03 · 2 months ago
+10,067
+11111
+
+
+CHANGES
+2019年4月16日 星期二
+zhanghui · 19:48 · 2 months ago
+10,040
+4707 聊天中的文档在线浏览，内容乱码
+
+
+CHANGES
+zhanghui · 19:17 · 2 months ago
+10,027
+Fix
+
+
+CHANGES
+2019年4月16日 星期二
+zhanghui · 19:16 · 2 months ago
+10,026
+面对面建群功能
+
+
+CHANGES
+haixiao · 14:43 · 2 months ago
+9,937
+share network 报错 fix
+
+
+CHANGES
+haixiao · 09:43 · 2 months ago
+9,914
+红包手气最佳 显示位置错误 fix
+
+
+CHANGES
+2019年4月15日 星期一
+haixiao · 16:30 · 2 months ago
+9,866
+fix
+
+
+CHANGES
+haixiao · 16:24 · 2 months ago
+9,865
+红包领取列表  按领取时间本地降序排列， 并选择金额一样的取时间早的手气最佳
+
+
+CHANGES
+zhanghui · 14:47 · 2 months ago
+9,856
+重发消息不能发出去的问题 fix
+
+
+CHANGES
+haixiao · 14:24 · 2 months ago
+9,855
+当前聊天界面存在阅后即焚消息， 然后进行截屏操作， 会给对方发送提示消息
+
+
+CHANGES
+zhanghui · 10:51 · 2 months ago
+9,845
+4577 多点登录，在Android主动退出群聊后，在ios查看，提示的是我被踢出群聊
+
+
+CHANGES
+haixiao · 10:15 · 2 months ago
+9,838
+聊天内容含有特殊的链接， 崩溃， 客户提   fix 
+
+
+CHANGES
+2019年4月13日 星期六
+haixiao · 17:07 · 2 months ago
+9,809
+二维码支付款， 支持长按识别二维码
+
+
+CHANGES
+zhanghui · 16:55 · 2 months ago
+9,806
+隐藏验证码登录
+
+
+CHANGES
+haixiao · 16:45 · 2 months ago
+9,803
+cell 高亮状态 默认头像显示为透明色 fix
+
+
+CHANGES
+haixiao · 15:55 · 2 months ago
+9,798
+share app name  和 主target统一
+
+
+CHANGES
+zhanghui · 15:21 · 2 months ago
+9,787
+4581 在安卓端拉黑A好友，用IOS登录A好友依然在通讯录，对话也没删除。黑名单内无A好友。关闭app重新登录也还在。
+
+
+CHANGES
+zhanghui · 14:58 · 2 months ago
+9,779
+Fix 
+
+
+CHANGES
+zhanghui · 14:57 · 2 months ago
+9,778
+Fix 
+
+
+CHANGES
+haixiao · 14:49 · 2 months ago
+9,775
+fix
+
+
+CHANGES
+haixiao · 12:30 · 2 months ago
+9,771
+短信验证码登录
+
+
+CHANGES
+haixiao · 12:28 · 2 months ago
+9,770
+fix
+
+
+CHANGES
+haixiao · 12:27 · 2 months ago
+9,769
+红包领完显示， 红包最佳手气 
+
+
+CHANGES
+zhanghui · 12:12 · 2 months ago
+9,762
+邀请好友去确认点击无效 fix  &  红包控制消息点击优化
+
+
+CHANGES
+zhanghui · 11:33 · 2 months ago
+9,753
+视酷字样、视酷链接处理
+
+
+CHANGES
+2019年4月12日 星期五
+haixiao · 18:28 · 2 months ago
+9,738
+红包 打开动画处理
+
+
+CHANGES
+zhanghui · 18:18 · 2 months ago
+9,737
+4597 生活圈：好友发布了视频，在IOS端打开都要等个几秒钟才开始播放，如果是在缓冲可以加个等待缓冲的转圈图标以提醒客户视频正在缓冲
+
+
+CHANGES
+zhanghui · 16:33 · 2 months ago
+9,729
+4566 IOS端收藏对方的文本消息，然后按加号打开我的收藏点击删除，提示确定发送收藏消息，点击是，发送了收藏的消息。
+
+
+CHANGES
+haixiao · 16:21 · 2 months ago
+9,726
+注册后 第一次 无头像显示
+
+
+CHANGES
+zhanghui · 16:07 · 2 months ago
+9,722
+4567 IOS端的客服公众号右滑无法出现置顶、标志未读、删除按钮功能
+
+
+CHANGES
+zhanghui · 16:07 · 2 months ago
+9,721
+图片裁剪成正方形
+
+
+CHANGES
+zhanghui · 14:57 · 2 months ago
+9,710
+视酷号
+
+
+CHANGES
+zhanghui · 14:49 · 2 months ago
+9,709
+音视频通话时间校准
+
+
+CHANGES
+zhanghui · 14:48 · 2 months ago
+9,708
+优化退后台可能会在线问题
+
+
+CHANGES
+haixiao · 12:15 · 2 months ago
+9,698
+shiku.co  写成一个宏
+
+
+CHANGES
+haixiao · 11:54 · 2 months ago
+9,695
+fix
+
+
+CHANGES
+haixiao · 11:53 · 2 months ago
+9,694
+fix
+
+
+CHANGES
+haixiao · 11:44 · 2 months ago
+9,690
+视酷 字样  替换成 app name
+
+
+CHANGES
+zhanghui · 11:05 · 2 months ago
+9,681
+4595 生活圈：发了生活圈以后安卓的评论区可以即时显示好友评论内容、点赞等新消息， IOS端不可以即时显示，点击顶部的x条新消息以后评论区也没出现相关内容，要退出刷新才显示出来。
+
+
+CHANGES
+haixiao · 10:13 · 2 months ago
+9,672
+视酷支付 改为  支付公众号
+
+
+CHANGES
+2019年4月11日 星期四
+zhanghui · 12:28 · 2 months ago
+9,606
+本人发送的图片，不应再下载
+
+
+CHANGES
+zhanghui · 10:56 · 2 months ago
+9,594
+控制消息不显示问题  fix
+
+
+CHANGES
+haixiao · 10:17 · 2 months ago
+9,590
+fix
+
+
+CHANGES
+haixiao · 10:13 · 2 months ago
+9,589
+回复 消息类型
+
+
+CHANGES
+2019年4月10日 星期三
+zhanghui · 17:46 · 2 months ago
+9,557
+视频全屏播放 & 启动视频播放瞬间黑屏 优化
+
+
+CHANGES
+zhanghui · 16:32 · 2 months ago
+9,540
+后台进入前台头像会闪问题 优化
+
+
+CHANGES
+haixiao · 14:44 · 2 months ago
+9,531
+fix
+
+
+CHANGES
+haixiao · 12:12 · 2 months ago
+9,523
+红包新界面
+
+
+CHANGES
+tjx · 10:20 · 2 months ago
+9,506
+后台继续运行几十秒
+sBackgroundTask = [app beginBackgroundTaskWithExpirationHandler:^{
+
+
+CHANGES
+zhanghui · 09:59 · 2 months ago
+9,503
+Fix
+
+
+CHANGES
+zhanghui · 09:24 · 2 months ago
+9,502
+聊天记录分类查找
+
+
+CHANGES
+2019年4月9日 星期二
+zhanghui · 09:22 · 2 months ago
+9,439
+Fix
+
+
+CHANGES
+2019年4月8日 星期一
+zhanghui · 19:12 · 2 months ago
+9,420
+红包控制消息优化
+
+
+CHANGES
+2019年4月8日 星期一
+zhanghui · 17:56 · 2 months ago
+9,414
+视频显示第一帧图片变形问题 fix
+
+
+CHANGES
+zhanghui · 17:03 · 2 months ago
+9,403
+红包领取后颜色区分
+
+
+CHANGES
+haixiao · 11:11 · 2 months ago
+9,386
+webview 进度条
+
+
+CHANGES
+2019年4月4日 星期四
+zhanghui · 20:43 · 2 months ago
+9,378
+Fix 
+
+
+CHANGES
+zhanghui · 20:40 · 2 months ago
+9,377
+Fix 
+
+
+CHANGES
+zhanghui · 20:34 · 2 months ago
+9,375
+version:6.1.0  build:20190404
+
+
+CHANGES
+zhanghui · 18:17 · 3 months ago
+9,353
+默认apiUrl优化
+
+
+CHANGES
+zhanghui · 17:42 · 3 months ago
+9,352
+4560 选择视频保存到本地，出现“仅保存图片”的提示，按确定后提示“保存成功”，实际并没有保存（改成支持保存视频类型）
+
+
+CHANGES
+haixiao · 17:16 · 3 months ago
+9,349
+禁止发送全是空格的消息
+
+
+CHANGES
+haixiao · 16:49 · 3 months ago
+9,344
+把好友备注设置为空格，会被移除列表 fix
+
+
+CHANGES
+zhanghui · 16:32 · 3 months ago
+9,341
+4558 下载的文件无法访问
+
+
+CHANGES
+zhanghui · 15:44 · 3 months ago
+9,338
+群消息显示错乱问题
+
+
+CHANGES
+haixiao · 15:43 · 3 months ago
+9,337
+单聊建群 和 第一次被邀请的人员进群 role没值，导致群主头像框未显示
+
+
+CHANGES
+haixiao · 14:25 · 3 months ago
+9,332
+视酷支付 ，转账退款逻辑错误导致没数据 fix
+
+
+CHANGES
+zhanghui · 12:14 · 3 months ago
+9,328
+发送联系人图标替换
+
+
+CHANGES
+zhanghui · 11:34 · 3 months ago
+9,325
+头像加载慢 优化
+
+
+CHANGES
+haixiao · 10:14 · 3 months ago
+9,318
+4506 进入群聊，群聊还没加载完成时，右上角“...”角标重叠
+
+
+CHANGES
+2019年4月3日 星期三
+zhanghui · 19:59 · 3 months ago
+9,298
+4535 全屏看图片时屏蔽系统时间、网络等角标
+
+
+CHANGES
+zhanghui · 19:41 · 3 months ago
+9,294
+4538 用户a拉黑用户b后，用户a可以通过手机联系人添加用户b为好友
+
+
+CHANGES
+zhanghui · 19:31 · 3 months ago
+9,293
+发送手机联系人
+
+
+CHANGES
+haixiao · 18:15 · 3 months ago
+9,286
+首页和聊天界面 右上角按钮响应区域加大
+
+
+CHANGES
+zhanghui · 12:10 · 3 months ago
+9,267
+启动时等待符不要背景色
+
+
+CHANGES
+zhanghui · 11:21 · 3 months ago
+9,262
+设备锁
+
+
+CHANGES
+2019年4月2日 星期二
+haixiao · 17:45 · 3 months ago
+9,241
+默认头像重用问题 fix
+
+
+CHANGES
+haixiao · 16:07 · 3 months ago
+9,231
+整理share 文件
+
+
+CHANGES
+haixiao · 10:50 · 3 months ago
+9,217
+fix
+
+
+CHANGES
+2019年4月1日 星期一
+zhanghui · 19:44 · 3 months ago
+9,189
+群搜索功能  &  邀请手机联系人  &  系统分享视酷软件  &  更换我的收藏图标
+
+
+CHANGES
+zhanghui · 15:16 · 3 months ago
+9,150
+自定义输入页面
+
+
+CHANGES
+zhanghui · 12:00 · 3 months ago
+9,140
+聊天置顶，在置顶后接收的新消息，应在置顶区实现消息更新排序
+
+
+CHANGES
+2019年3月30日 星期六
+haixiao · 17:40 · 3 months ago
+9,085
+四个字符的 默认头像生成
+
+
+CHANGES
+haixiao · 17:38 · 3 months ago
+9,084
+已读  未读
+
+
+CHANGES
+haixiao · 16:44 · 3 months ago
+9,080
+更新测试服地址
+
+
+CHANGES
+zhanghui · 10:45 · 3 months ago
+9,061
+Fix
+
+
+CHANGES
+zhanghui · 09:03 · 3 months ago
+9,051
+version：6.0.9   build：20190330
+
+
+CHANGES
+2019年3月29日 星期五
+zhanghui · 17:56 · 3 months ago
+9,022
+xmpp连接慢问题 fix
+
+
+CHANGES
+zhanghui · 17:18 · 3 months ago
+9,009
+查找聊天记录 定位不准确问题 fix
+
+
+CHANGES
+zhanghui · 16:55 · 3 months ago
+9,008
+Fix
+
+
+CHANGES
+zhanghui · 16:44 · 3 months ago
+9,006
+无网络加好友处理
+
+
+CHANGES
+zhanghui · 16:18 · 3 months ago
+9,004
+黑名单问题优化
+
+
+CHANGES
+zhanghui · 15:28 · 3 months ago
+8,999
+没有网络连接时 发消息处理
+
+
+CHANGES
+haixiao · 14:58 · 3 months ago
+8,990
+新图标
+
+
+CHANGES
+zhanghui · 11:11 · 3 months ago
+8,964
+Fix
+
+
+CHANGES
+zhanghui · 11:02 · 3 months ago
+8,962
+Fix
+
+
+CHANGES
+zhanghui · 10:49 · 3 months ago
+8,957
+系统分享消息显示不正确问题 fix
+
+
+CHANGES
+zhanghui · 10:34 · 3 months ago
+8,952
+获取最后一条聊天记录优化
+
+
+CHANGES
+2019年3月28日 星期四
+haixiao · 20:20 · 3 months ago
+8,932
+fix
+
+
+CHANGES
+zhanghui · 19:51 · 3 months ago
+8,927
+Fix
+
+
+CHANGES
+zhanghui · 19:50 · 3 months ago
+8,926
+4474 生活圈消息提示列表，评论视频消息没有封面，要点击才显示封面
+
+
+CHANGES
+haixiao · 18:30 · 3 months ago
+8,919
+fix
+
+
+CHANGES
+haixiao · 17:55 · 3 months ago
+8,904
+示例图添加滤镜效果
+
+
+CHANGES
+2019年3月28日 星期四
+haixiao · 17:12 · 3 months ago
+8,897
+视酷支付图标替换  详情颜色更改
+
+
+CHANGES
+zhanghui · 17:03 · 3 months ago
+8,894
+录制视频偏移问题 fix
+
+
+CHANGES
+haixiao · 16:50 · 3 months ago
+8,891
+JXCameraVC 设置只能拍照时，显示黑屏 fix
+
+
+CHANGES
+haixiao · 16:37 · 3 months ago
+8,890
+美颜默认值  全开
+
+
+CHANGES
+haixiao · 16:26 · 3 months ago
+8,889
+fix
+
+
+CHANGES
+haixiao · 16:23 · 3 months ago
+8,887
++ 录制视频，拍照  滤镜和美颜
+
+
+CHANGES
+haixiao · 16:19 · 3 months ago
+8,885
+转账界面状态栏颜色 fix
+
+
+CHANGES
+zhanghui · 14:58 · 3 months ago
+8,876
+音视频ping机制改为30秒  3秒发一次 10次
+
+
+CHANGES
+zhanghui · 14:57 · 3 months ago
+8,875
+Xmpp不在线  不允许发送音视频通话
+
+
+CHANGES
+zhanghui · 14:26 · 3 months ago
+8,869
+最后一条聊天记录优化
+
+
+CHANGES
+zhanghui · 12:14 · 3 months ago
+8,864
+聊天链接访问 锁定功能
+
+
+CHANGES
+2019年3月27日 星期三
+haixiao · 20:22 · 3 months ago
+8,823
+fix
+
+
+CHANGES
+zhanghui · 20:10 · 3 months ago
+8,822
+黑名单问题 优化
+
+
+CHANGES
+zhanghui · 19:34 · 3 months ago
+8,813
+获取最后一条聊天记录 过滤不是好友
+
+
+CHANGES
+haixiao · 18:19 · 3 months ago
+8,802
+发送消息给好友 ，优化偶尔无法发送问题
+
+
+CHANGES
+haixiao · 18:19 · 3 months ago
+8,801
+好友列表只显示 status = 2 or 8 的用户
+
+
+CHANGES
+zhanghui · 18:16 · 3 months ago
+8,800
+4492 最后一条消息时间是昨天，在消息列表显示是前天
+
+
+CHANGES
+haixiao · 18:08 · 3 months ago
+8,797
+公众号菜单栏 网址出现\t  空格，无法访问fix
+
+
+CHANGES
+zhanghui · 17:42 · 3 months ago
+8,794
+特殊消息类型记录拉取不到问题 fix
+
+
+CHANGES
+zhanghui · 12:16 · 3 months ago
+8,775
+踢出群聊后再次拉进群组   中间的聊天记录可以获取到 fix
+
+
+CHANGES
+2019年3月26日 星期二
+zhanghui · 10:13 · 3 months ago
+8,684
+群成员不足一页时，应该禁用往后翻页
+
+
+CHANGES
+haixiao · 09:33 · 3 months ago
+8,681
+转账被领取和退回  未显示fix
+
+
+CHANGES
+zhanghui · 09:24 · 3 months ago
+8,680
+fix
+
+
+CHANGES
+zhanghui · 09:23 · 3 months ago
+8,679
+群成员分页
+
+
+CHANGES
+zhanghui · 09:22 · 3 months ago
+8,678
+红包问题 fix
+
+
+CHANGES
+2019年3月25日 星期一
+haixiao · 20:18 · 3 months ago
+8,675
+系统分享  选择好友界面根据userNickname筛选cell
+
+
+CHANGES
+haixiao · 18:32 · 3 months ago
+8,670
+打开  timeSend
+
+
+CHANGES
+haixiao · 18:32 · 3 months ago
+8,669
+系统分享 无法分享到群聊 fix
+
+
+CHANGES
+zhanghui · 18:27 · 3 months ago
+8,666
+fix
+
+
+CHANGES
+haixiao · 15:20 · 3 months ago
+8,661
+网页分享标题一直未改变
+
+
+CHANGES
+haixiao · 15:03 · 3 months ago
+8,657
+系统分享 ： 图片、视频、链接 
+
+
+CHANGES
+2019年3月23日 星期六
+zhanghui · 17:29 · 3 months ago
+8,631
+默认服务器
+
+
+CHANGES
+zhanghui · 16:02 · 3 months ago
+8,626
+输入换行菜单
+
+
+CHANGES
+zhanghui · 11:34 · 3 months ago
+8,621
+群组音视频通话拉人
+
+
+CHANGES
+2019年3月21日 星期四
+zhanghui · 19:23 · 3 months ago
+8,577
+4051 一台安卓和一台ios两个开启阅读即焚，频繁发送多条消息，ios快速点击滑动，会将消息给遗漏，导致安卓端消息销毁不了，操作步骤已经复现给你看
+
+
+CHANGES
+zhanghui · 15:57 · 3 months ago
+8,561
+4467 在标签列表中，创建好的标签成员不可以手动删除，只能将好友删除才会删除，加入黑名单，不会从标签列表中移除
+
+
+CHANGES
+zhanghui · 15:27 · 3 months ago
+8,557
+4468 标签第一次进入列表，本来列表存在用户，在从新选择用户，会将原存在的用户给替换掉新选择的用户
+
+
+CHANGES
+zhanghui · 12:06 · 3 months ago
+8,554
+切换服务器处理
+
+
+CHANGES
+zhanghui · 11:59 · 3 months ago
+8,553
+红包领取回执处理 & 红包领取过来颜色变化处理优化
+
+
+CHANGES
+2019年3月20日 星期三
+zhanghui · 17:52 · 3 months ago
+8,527
+网页拉起音视频会议 功能
+
+
+CHANGES
+2019年3月19日 星期二
+zhanghui · 19:56 · 3 months ago
+8,489
+version:6.0.6. build:20190319
+
+
+CHANGES
+zhanghui · 16:38 · 3 months ago
+8,479
+4447 发送语音，按住说话解除面积大时，开始录音效果会慢2s  优化
+
+
+CHANGES
+haixiao · 16:23 · 3 months ago
+8,477
+我的同事， 如果A部门下有另外一个B部门， 删除A部门 ， 崩溃 fix
+
+
+CHANGES
+zhanghui · 16:08 · 3 months ago
+8,476
+4448 不需要通过验证加为好友后，我添加的他，显示为对方已加我为好友
+
+
+CHANGES
+zhanghui · 15:45 · 3 months ago
+8,475
+发送课程中保持屏幕常亮 & 发送课程崩溃问题 fix
+
+
+CHANGES
+haixiao · 14:59 · 3 months ago
+8,469
+timeSend  计算与服务器的差 ，  （暂时注释）
+
+
+CHANGES
+zhanghui · 14:32 · 3 months ago
+8,464
+设置服务器保存域名
+
+
+CHANGES
+zhanghui · 14:32 · 3 months ago
+8,463
+群组消息重复问题 fix
+
+
+CHANGES
+zhanghui · 11:38 · 3 months ago
+8,456
+语音链接为空 崩溃问题 优化
+
+
+CHANGES
+2019年3月18日 星期一
+zhanghui · 19:51 · 3 months ago
+8,442
+自动登录不要“正在登录”提示
+
+
+CHANGES
+2019年3月18日 星期一
+zhanghui · 19:29 · 3 months ago
+8,437
+群成员人数根据接口返回
+
+
+CHANGES
+zhanghui · 19:02 · 3 months ago
+8,435
+取消黑名单 实时更新
+
+
+CHANGES
+haixiao · 14:39 · 3 months ago
+8,423
+我的设备左滑出现 移除黑名单  （客户提）  fix
+
+
+CHANGES
+2019年3月15日 星期五
+haixiao · 17:55 · 3 months ago
+8,377
+扫码付款  新消息红点不显示fix       tabbar 红点提醒未更新 fix
+
+
+CHANGES
+haixiao · 17:19 · 3 months ago
+8,376
+4441 消息长按出现的菜单，点击后没有点击效果（变其他颜色）
+
+
+CHANGES
+haixiao · 16:51 · 3 months ago
+8,375
+fix
+
+
+CHANGES
+zhanghui · 16:27 · 3 months ago
+8,371
+聊天链接正则表达式更新 & 链接http不区分大小写 & 点击连接去掉选择框
+
+
+CHANGES
+haixiao · 16:26 · 3 months ago
+8,370
+4445  朋友圈收藏视频出错误  
+
+
+CHANGES
+tjx · 11:16 · 3 months ago
+8,361
+
+
+
+CHANGES
+haixiao · 09:36 · 3 months ago
+8,355
+优化
+
+
+CHANGES
+2019年3月14日 星期四
+haixiao · 20:02 · 3 months ago
+8,348
+4430 网页标题过长的时候，标题会和“<”,"..."两个按钮重叠
+
+
+CHANGES
+haixiao · 18:19 · 3 months ago
+8,342
+不在登录状态 ， 隐藏悬浮窗
+
+
+CHANGES
+haixiao · 17:30 · 3 months ago
+8,340
+fix
+
+
+CHANGES
+haixiao · 17:16 · 3 months ago
+8,339
+我的同事 删除公司创建人后 无法退出公司 fix
+
+
+CHANGES
+haixiao · 16:53 · 3 months ago
+8,338
+我的同事 删除成员和部门  崩溃问题 fix
+
+
+CHANGES
+haixiao · 16:21 · 3 months ago
+8,335
+微信绑定和解绑
+
+
+CHANGES
+haixiao · 09:43 · 3 months ago
+8,317
+webview  更多功能（分享、收藏、浮窗等。。）
+
+
+CHANGES
+2019年3月13日 星期三
+zhanghui · 18:07 · 3 months ago
+8,298
+视酷支付 特别处理
+
+
+CHANGES
+zhanghui · 17:30 · 3 months ago
+8,294
+version:6.0.5   build : 20190311
+
+
+CHANGES
+zhanghui · 17:29 · 3 months ago
+8,293
+4425 单聊-红包（包括口令红包），ios发的红包点击无法领取，ios显示null fix
+
+
+CHANGES
+2019年3月11日 星期一
+haixiao · 17:55 · 3 months ago
+8,231
+视酷支付凭证列表  进入  滚动到最底部
+
+
+CHANGES
+zhanghui · 17:46 · 3 months ago
+8,224
+Fix
+
+
+CHANGES
+haixiao · 16:49 · 3 months ago
+8,221
+转账 userid 类型不对 崩溃问题  fix
+
+
+CHANGES
+haixiao · 14:53 · 3 months ago
+8,213
+群聊进度条到99% 不会隐藏 fix
+
+
+CHANGES
+haixiao · 11:43 · 3 months ago
+8,206
+优化code
+
+
+CHANGES
+haixiao · 11:24 · 3 months ago
+8,201
+朋友圈 多张图片滑动  崩溃 fix
+
+
+CHANGES
+haixiao · 10:50 · 3 months ago
+8,199
+支付凭证消息查看新消息  未更新
+
+
+CHANGES
+zhanghui · 10:50 · 3 months ago
+8,198
+网页授权
+
+
+CHANGES
+haixiao · 10:50 · 3 months ago
+8,197
+fix
+
+
+CHANGES
+zhanghui · 10:50 · 3 months ago
+8,196
+去掉本地集群 根据IP获取位置信息
+
+
+CHANGES
+zhanghui · 10:48 · 3 months ago
+8,195
+切换账号同步最后一条聊天记录问题优化
+
+
+CHANGES
+haixiao · 10:07 · 3 months ago
+8,192
+扫描支付、收款 ，  支付凭证（视酷支付）
+
+
+CHANGES
+2019年3月8日 星期五
+haixiao · 11:04 · 3 months ago
+8,145
+注册时 关闭验证码注册  上传服务器密码未加密  fix
+
+
+CHANGES
+haixiao · 10:20 · 3 months ago
+8,139
+发现界面公众号 数据源由多个变为一个后 刷新列表  头像重复 fix
+
+
+CHANGES
+2019年3月7日 星期四
+haixiao · 14:20 · 3 months ago
+8,117
+消息图标3倍图 更换
+
+
+CHANGES
+zhanghui · 11:11 · 3 months ago
+8,111
+4388 消息列表显示群成员在群内的昵称，而不是本机用户对该成员的好友备注（优先级：好友备注>群昵称）
+
+
+CHANGES
+2019年3月6日 星期三
+haixiao · 10:45 · 3 months ago
+8,074
+fix
+
+
+CHANGES
+zhanghui · 10:43 · 3 months ago
+8,073
+Fix 
+
+
+CHANGES
+zhanghui · 10:31 · 3 months ago
+8,072
+下拉框列表点击事件代码优化
+
+
+CHANGES
+2019年3月5日 星期二
+haixiao · 20:02 · 3 months ago
+8,069
+转账   在消息界面 最后一条消息的 提示
+
+
+CHANGES
+haixiao · 20:00 · 3 months ago
+8,068
+上传进度  收到回执再隐藏
+
+
+CHANGES
+zhanghui · 19:21 · 3 months ago
+8,067
+4368 点击“+”号弹起的发送栏布局紧凑
+
+
+CHANGES
+zhanghui · 17:53 · 3 months ago
+8,063
+聊天页面加号不灵敏 fix
+
+
+CHANGES
+haixiao · 17:36 · 3 months ago
+8,062
+4366 转账-金额为空，直接按转账可以输入密码，输入正确密码后显示密码错误
+
+
+CHANGES
+zhanghui · 17:33 · 3 months ago
+8,061
+更换匹配链接的正则表达式
+
+
+CHANGES
+zhanghui · 16:49 · 3 months ago
+8,060
+4358 手气红包的红包个数，不要有默认值（或者默认值不要为“1”）
+
+
+CHANGES
+zhanghui · 10:43 · 3 months ago
+8,050
+聊天页面 + 号点击不灵敏问题 优化
+
+
+CHANGES
+haixiao · 10:37 · 3 months ago
+8,047
+4356 转账-第一位输入字符“.”，（例“.11”），输入正确的转账密码提示密码错误
+
+
+CHANGES
+2019年3月4日 星期一
+haixiao · 20:14 · 3 months ago
+8,045
+新添加 转账功能
+
+
+CHANGES
+haixiao · 19:42 · 4 months ago
+8,044
+聊天界面 消息功能菜单 布局 重构
+
+
+CHANGES
+2019年3月4日 星期一
+zhanghui · 16:03 · 4 months ago
+8,036
+4319 修改群昵称后，之前的历史消息昵称名都更新，但是更改群昵称后重新发消息，本用户显示的昵称是用户名不是修改的群内昵称
+
+
+CHANGES
+zhanghui · 15:10 · 4 months ago
+8,034
+IOS点击聊天记录过慢 优化
+
+
+CHANGES
+zhanghui · 15:07 · 4 months ago
+8,033
+设置APP内webview请求标志
+
+
+CHANGES
+2019年3月1日 星期五
+zhanghui · 17:12 · 4 months ago
+8,018
+4329 普通成员停留群组详情页状态没有实时更新，群主关闭群邀请确认后发送的邀请确认信息，群主要确认才能完成邀请
+
+
+CHANGES
+zhanghui · 17:12 · 4 months ago
+8,017
+4320 后台去群管理，点击锁定或者解锁某个群，手机端会出现群过期消息摧毁提示
+
+
+CHANGES
+zhanghui · 15:45 · 4 months ago
+8,004
+发送聊天信息，先发在用红点提示发送失败（如果发送失败的话），而不是频繁提示要重连
+
+
+CHANGES
+zhanghui · 15:44 · 4 months ago
+8,002
+进入聊天界面不加载上滑动画
+
+
+CHANGES
+2019年2月28日 星期四
+zhanghui · 16:41 · 4 months ago
+7,960
+ 聊天界面手机号特殊标记
+
+
+CHANGES
+haixiao · 15:56 · 4 months ago
+7,953
+被邀请进群，群管理默认开启上传，但是不能发送文件 fix
+
+
+CHANGES
+zhanghui · 12:22 · 4 months ago
+7,950
+阅后即焚 fix
+
+
+CHANGES
+haixiao · 11:08 · 4 months ago
+7,948
+群组设置界面 + -  按钮 无权限时 不隐藏，处理点击事件弹框  （测试部提出）
+
+
+CHANGES
+2019年2月27日 星期三
+zhanghui · 18:25 · 4 months ago
+7,940
+阅后即焚屏幕外cell不销毁问题 fix
+
+
+CHANGES
+zhanghui · 17:49 · 4 months ago
+7,937
+3883 ios阅后即焚，点击返回界面，计时器停止，返回到聊天界面计时器才开始
+
+
+CHANGES
+haixiao · 15:10 · 4 months ago
+7,929
+阅后即焚消息 显示在屏幕外被查看后 重新滑进屏幕内 不会销毁  fix
+
+
+CHANGES
+zhanghui · 14:37 · 4 months ago
+7,926
+取消黑名单消息重复问题优化
+
+
+CHANGES
+zhanghui · 10:48 · 4 months ago
+7,919
+4275 查看图片，放大效果很生硬  优化
+
+
+CHANGES
+haixiao · 10:16 · 4 months ago
+7,915
+多选删除所以聊天记录，出现崩溃    fix
+
+
+CHANGES
+haixiao · 10:06 · 4 months ago
+7,914
+version 6.0.4    Build  20190223
+
+
+CHANGES
+2019年2月26日 星期二
+zhanghui · 16:39 · 4 months ago
+7,899
+多点登录 单聊同步消息问题 fix
+
+
+CHANGES
+zhanghui · 16:38 · 4 months ago
+7,898
+4285 阅后即焚消息，点击进去聊天界面，不查看消息，返回到消息列表，消息列表显示阅后即焚的内容
+
+
+CHANGES
+haixiao · 15:05 · 4 months ago
+7,891
+如果地图没周边 ， 便不会显示发送按钮 fix
+
+
+CHANGES
+zhanghui · 10:29 · 4 months ago
+7,884
+播放语音时贴脸息屏、听筒与扬声器转换各种bug修复与优化
+
+
+CHANGES
+haixiao · 10:20 · 4 months ago
+7,883
+3956 点击朋友圈图片出现闪退
+
+
+CHANGES
+2019年2月25日 星期一
+haixiao · 20:07 · 4 months ago
+7,882
+播放语音消息后   未读红点没有隐藏 (防护措施，未复现)
+
+
+CHANGES
+zhanghui · 19:47 · 4 months ago
+7,881
+播放视频时 接收到音视频通话消息  卡死 fix
+
+
+CHANGES
+haixiao · 19:24 · 4 months ago
+7,880
+已读列表偶尔出现空名称
+
+
+CHANGES
+haixiao · 16:39 · 4 months ago
+7,875
+fix
+
+
+CHANGES
+haixiao · 16:39 · 4 months ago
+7,874
+fix
+
+
+CHANGES
+haixiao · 16:39 · 4 months ago
+7,873
+短视频添加举报
+
+
+CHANGES
+haixiao · 15:40 · 4 months ago
+7,870
+群组设置隐身人后，收到控制消息未更新数据库  fix
+
+
+CHANGES
+haixiao · 12:12 · 4 months ago
+7,869
+隐身人不能邀请人加群
+
+
+CHANGES
+zhanghui · 09:18 · 4 months ago
+7,864
+短视频代码拆分 
+
+
+CHANGES
+2019年2月23日 星期六
+zhanghui · 17:05 · 4 months ago
+7,857
+更改昵称后，已读列表没更新 fix
+
+
+CHANGES
+haixiao · 15:26 · 4 months ago
+7,846
+群组   隐身人不发回执（已读列表不显示）
+
+
+CHANGES
+haixiao · 14:26 · 4 months ago
+7,839
+3845 已读列表读取的人数中，不显示安卓成员的名字
+
+
+CHANGES
+zhanghui · 11:02 · 4 months ago
+7,838
+4136 ios和 安卓登录同一个账户，其他用户打音视频电话，打音视频的客户会强行挂断 fix
+
+
+CHANGES
+haixiao · 10:38 · 4 months ago
+7,837
+3690 开开飞行模式进入登录界面，在关掉飞行模式，登录不了
+
+
+CHANGES
+zhanghui · 09:36 · 4 months ago
+7,834
+Xcode10 适配
+
+
+CHANGES
+2019年2月22日 星期五
+haixiao · 16:39 · 4 months ago
+7,812
+上传进度条
+
+
+CHANGES
+haixiao · 16:39 · 4 months ago
+7,811
+第三方登录
+
+
+CHANGES
+haixiao · 16:38 · 4 months ago
+7,810
+上传进度和 第三方登录   网络类
+
+
+CHANGES
+zhanghui · 15:06 · 4 months ago
+7,809
+观看的ios用户不会退出，且一直停留在那界面 fix
+
+
+CHANGES
+haixiao · 14:51 · 4 months ago
+7,808
+4074 开启群聊会议，在选择人列表中，点击选择人，程序会直接奔溃
+
+
+CHANGES
+haixiao · 10:36 · 4 months ago
+7,806
+4221 录制语音的时候一直按着，然后点击名片或者好友信息，或者个人信息，语音会一直播放
+
+
+CHANGES
+zhanghui · 09:34 · 4 months ago
+7,805
+后台删除用户 新朋友列表不显示昵称 fix
+
+
+CHANGES
+2019年2月21日 星期四
+zhanghui · 18:01 · 4 months ago
+7,785
+4238 程序退出后，过一段时间登陆，无法漫游到之前的聊天的记录 fix
+
+
+CHANGES
+haixiao · 17:38 · 4 months ago
+7,784
+fix
+
+
+CHANGES
+haixiao · 17:32 · 4 months ago
+7,783
+4228 在聊天设置和基本信息备注两个不一样的昵称，最终显示在聊天设置备注的昵称
+
+
+CHANGES
+haixiao · 16:12 · 4 months ago
+7,781
+阅后即焚消息计时去掉   换行
+
+
+CHANGES
+zhanghui · 14:54 · 4 months ago
+7,777
+程序退出后，过一段时间登陆，无法漫游到之前的聊天的记录 fix
+
+
+CHANGES
+2019年2月21日 星期四
+haixiao · 14:35 · 4 months ago
+7,774
+选择好友列表筛选会取消勾选
+
+
+CHANGES
+zhanghui · 11:38 · 4 months ago
+7,770
+timeSend 带小数点
+
+
+CHANGES
+zhanghui · 11:10 · 4 months ago
+7,768
+短视频录制完成后，进行压缩应该显示进度
+
+
+CHANGES
+zhanghui · 09:54 · 4 months ago
+7,763
+自动登录问题 fix
+
+
+CHANGES
+zhanghui · 09:53 · 4 months ago
+7,762
+短视频选择音乐列表刷新问题  &&  音乐搜索使用搜索接口
+
+
+CHANGES
+2019年2月20日 星期三
+zhanghui · 17:32 · 4 months ago
+7,730
+群聊消息过期销毁 加协议
+
+
+CHANGES
+zhanghui · 12:24 · 4 months ago
+7,716
+直播，主播退出直播间后，弹框弹出两次，按确定返回上一级界面，直播间没有消失依然显示 fix
+
+
+CHANGES
+zhanghui · 11:48 · 4 months ago
+7,714
+已加入标签的好友，后台好友账号被删除，标签列表，显示null fix
+
+
+CHANGES
+zhanghui · 11:34 · 4 months ago
+7,712
+录制短视频的时候，点击暂停，在点击播放，在点击打勾，再点击暂停直接退出闪退 fix
+
+
+CHANGES
+2019年2月19日 星期二
+zhanghui · 17:50 · 4 months ago
+7,707
+ 修改密码，填写完三个密码才显示出错，没有告知错在哪里 fix
+
+
+CHANGES
+zhanghui · 17:37 · 4 months ago
+7,706
+朋友圈语音不显示问题 fix
+
+
+CHANGES
+haixiao · 17:02 · 4 months ago
+7,702
+4045 发送阅后即焚消息，消息多回车空字符，销毁时间也很长
+
+
+CHANGES
+haixiao · 16:40 · 4 months ago
+7,701
+相册返回显示有问题  fix
+
+
+CHANGES
+haixiao · 16:13 · 4 months ago
+7,700
+4084 设置备注后，发起群聊，在选择好友列表里，显示的依旧为还友自己的名称不是修改过的备注
+
+
+CHANGES
+haixiao · 14:56 · 4 months ago
+7,694
+4116 接收文件后不点击查看，一段时间后（几分钟后），点击查看文件，返回聊天页面，未读小红点不会消失，再次点击查看文件返回聊天页面，红点才会消失
+
+
+CHANGES
+zhanghui · 12:30 · 4 months ago
+7,693
+音后台修改个人信息，信息提示会提示多次 fix
+
+
+CHANGES
+haixiao · 12:13 · 4 months ago
+7,691
+4167 添加公众号查询不存在的公众号，没有提示，会一直停留在那界面
+
+
+CHANGES
+2019年2月18日 星期一
+haixiao · 17:23 · 4 months ago
+7,679
+推送	iOS端在群里修改群昵称后发送消息，推送的消息昵称显示为null
+
+
+CHANGES
+haixiao · 12:20 · 4 months ago
+7,674
+后台进前台 消息列表跳动  fix
+
+
+CHANGES
+haixiao · 11:06 · 4 months ago
+7,671
+录制语音消息时  禁止查看已读人数 
+
+
+CHANGES
+haixiao · 10:39 · 4 months ago
+7,670
+单聊  聊天界面title  未显示备注
+
+
+CHANGES
+haixiao · 10:12 · 4 months ago
+7,669
+修改备注后， 聊天设置界面头像下面名称未更新 fix
+
+
+CHANGES
+2019年2月16日 星期六
+zhanghui · 16:23 · 4 months ago
+7,658
+音视频通话邀请好友点击选择好友奔溃 fix
+
+
+CHANGES
+zhanghui · 14:29 · 4 months ago
+7,653
+国际化  fix
+
+
+CHANGES
+zhanghui · 11:08 · 4 months ago
+7,628
+已加入标签的好友，后台好友账号被删除，标签列表，显示null  fix
+
+
+CHANGES
+zhanghui · 09:47 · 4 months ago
+7,623
+fix
+
+
+CHANGES
+zhanghui · 09:47 · 4 months ago
+7,622
+服务器删除好友关系
+
+
+CHANGES
+zhanghui · 09:46 · 4 months ago
+7,621
+不显示有人@问题fix
+
+
+CHANGES
+zhanghui · 09:46 · 4 months ago
+7,620
+iPhone XR适配
+
+
+CHANGES
+2019年2月13日 星期三
+zhanghui · 15:40 · 4 months ago
+7,581
+合并转发语言消息，IOS点击查看消息慢慢消失且程序奔溃 fix
+
+
+CHANGES
+zhanghui · 12:09 · 4 months ago
+7,579
+在新建标签中，添加成员，先选择一些成员，在重新选择，会替换掉以前选择了的成员 fix
+
+
+CHANGES
+2019年2月12日 星期二
+zhanghui · 18:06 · 4 months ago
+7,576
+Ipad 相册不能选择图片 fix
+
+
+CHANGES
+zhanghui · 16:08 · 4 months ago
+7,573
+群发消息页面无法收回键盘问题 fix
+
+
+CHANGES
+zhanghui · 15:28 · 4 months ago
+7,569
+来消息后   正在播放的语音会暂停
+
+
+CHANGES
+2019年1月28日 星期一
+zhanghui · 12:01 · 5 months ago
+7,550
+服务器拉黑功能处理
+
+
+CHANGES
+2019年1月27日 星期日
+zhanghui · 12:25 · 5 months ago
+7,521
+取消黑名单奔溃问题 fix
+
+
+CHANGES
+2019年1月26日 星期六
+zhanghui · 17:15 · 5 months ago
+7,510
+扫描进群问题fix
+
+
+CHANGES
+zhanghui · 16:02 · 5 months ago
+7,509
+直播控制消息不显示问题 fix
+
+
+CHANGES
+zhanghui · 11:30 · 5 months ago
+7,497
+新消息数量不断累加…实际上并没有新消息 fix
+
+
+CHANGES
+zhanghui · 10:56 · 5 months ago
+7,495
+新消息数量不断累加…实际上并没有新消息 fix
+
+
+CHANGES
+2019年1月25日 星期五
+zhanghui · 17:27 · 5 months ago
+7,472
+Fix
+
+
+CHANGES
+zhanghui · 15:09 · 5 months ago
+7,457
+余额不足提示
+
+
+CHANGES
+haixiao · 14:58 · 5 months ago
+7,456
+新图标 
+
+
+CHANGES
+zhanghui · 11:28 · 5 months ago
+7,443
+注册日期默认当前日期
+
+
+CHANGES
+zhanghui · 09:53 · 5 months ago
+7,440
+音视频 ping消息处理优化
+
+
+CHANGES
+2019年1月24日 星期四
+zhanghui · 21:17 · 5 months ago
+7,425
+3844 首次登录，输入消息框点击加好出现多余空白
+
+
+CHANGES
+haixiao · 19:34 · 5 months ago
+7,414
+添加员工，取消已选中的员工点击确定，页面提示出错拉  (btchat)
+
+
+CHANGES
+zhanghui · 17:35 · 5 months ago
+7,409
+复制表情问题 fix
+
+
+CHANGES
+haixiao · 15:02 · 5 months ago
+7,399
+分享微博相关链接消息时，无图选择 变会崩溃  fix
+
+
+CHANGES
+haixiao · 14:23 · 5 months ago
+7,394
+刚刚建的群，无法获取群主信息  fix
+
+
+CHANGES
+2019年1月24日 星期四
+haixiao · 12:27 · 5 months ago
+7,393
+Ios观看直播点礼物崩了  （btchat）
+
+
+CHANGES
+zhanghui · 11:41 · 5 months ago
+7,392
+第三方认证 fix
+
+
+CHANGES
+2019年1月23日 星期三
+zhanghui · 21:20 · 5 months ago
+7,377
+3952 有群公告时，点进群聊聊天界面，底部信息会被遮挡
+
+
+CHANGES
+zhanghui · 20:42 · 5 months ago
+7,373
+3989 点击加号，发送图片后，再次输入，不会出现键盘
+
+
+CHANGES
+zhanghui · 18:10 · 5 months ago
+7,362
+3995 我的收藏，删除最后一条收藏，页面自动上拉
+
+
+CHANGES
+zhanghui · 15:27 · 5 months ago
+7,343
+聊天界面行高显示不正确问题 fix
+
+
+CHANGES
+haixiao · 14:53 · 5 months ago
+7,341
+聊天界面收藏的东西发送不了 （btchat）
+
+
+CHANGES
+zhanghui · 14:28 · 5 months ago
+7,338
+3959 进群验证，已确认邀请后信息提示仍然显示为去确认，没有改成已确认
+
+
+CHANGES
+haixiao · 10:33 · 5 months ago
+7,328
+位置显示偶尔不显示图片  fix
+
+
+CHANGES
+2019年1月22日 星期二
+zhanghui · 21:10 · 5 months ago
+7,321
+3917 开启阅读即焚，聊天的消息可以录制讲课，但是到我的课程里面不可以看到讲课的内容
+
+
+CHANGES
+zhanghui · 20:50 · 5 months ago
+7,318
+被踢出群不能点击头像查看群成员详情
+
+
+CHANGES
+haixiao · 19:26 · 5 months ago
+7,311
+发送链接消息截图 拉伸fix
+
+
+CHANGES
+haixiao · 18:17 · 5 months ago
+7,305
+我的讲课多选重用 fix
+
+
+CHANGES
+haixiao · 17:28 · 5 months ago
+7,298
+fix
+
+
+CHANGES
+zhanghui · 17:08 · 5 months ago
+7,297
+3945 如果有待发送消息，进入消息页面后键盘未弹起，输入框未聚焦，并且点击输入框时光标会从最前面闪烁到后边
+
+
+CHANGES
+zhanghui · 15:47 · 5 months ago
+7,283
+群昵称修改后实时更新
+
+
+CHANGES
+zhanghui · 12:10 · 5 months ago
+7,272
+清除聊天记录后删除最后一条聊天记录
+
+
+CHANGES
+haixiao · 10:28 · 5 months ago
+7,265
+苹果APP, 拉黑某人后，在黑名单里面点该人没反应。 应该改为，点该人后可以弹出该人信息，然后可以点击解除黑名单。  (厦门提出)
+
+
+CHANGES
+2019年1月21日 星期一
+haixiao · 22:10 · 5 months ago
+7,264
+图片
+
+
+CHANGES
+haixiao · 22:09 · 5 months ago
+7,263
+fix
+
+
+CHANGES
+zhanghui · 20:14 · 5 months ago
+7,253
+我的设备不能录制课程
+
+
+CHANGES
+zhanghui · 20:06 · 5 months ago
+7,252
+好友详情页面实时更新好友关系
+
+
+CHANGES
+zhanghui · 20:05 · 5 months ago
+7,251
+更新设备在线状态
+
+
+CHANGES
+haixiao · 19:51 · 5 months ago
+7,248
+fix
+
+
+CHANGES
+haixiao · 19:37 · 5 months ago
+7,246
+管理员框
+
+
+CHANGES
+zhanghui · 17:09 · 5 months ago
+7,231
+我的设备看详情报错 fix
+
+
+CHANGES
+zhanghui · 17:09 · 5 months ago
+7,230
+3920 修改 群内昵称，发送的消息安卓接收不到
+
+
+CHANGES
+2019年1月19日 星期六
+zhanghui · 19:03 · 5 months ago
+7,209
+Version:6.0.0. build:20190119
+
+
+CHANGES
+zhanghui · 19:03 · 5 months ago
+7,208
+公众号没有2级菜单1级菜单可点击
+
+
+CHANGES
+zhanghui · 17:24 · 5 months ago
+7,162
+fix
+
+
+CHANGES
+haixiao · 17:14 · 5 months ago
+7,161
+支付宝  充值 提现
+
+
+CHANGES
+haixiao · 17:08 · 5 months ago
+7,160
+视频播放前显示的第一帧图片适配
+
+
+CHANGES
+zhanghui · 17:01 · 5 months ago
+7,159
+管理员可以删除群成员
+
+
+CHANGES
+zhanghui · 16:40 · 5 months ago
+7,156
+发红包金额加密
+
+
+CHANGES
+haixiao · 16:36 · 5 months ago
+7,154
+fix
+
+
+CHANGES
+zhanghui · 14:30 · 5 months ago
+7,149
+3912 群发消息不点击对面选择框，选择好友的名字，也会出现选中，但是选中框没选中
+
+
+CHANGES
+haixiao · 12:23 · 5 months ago
+7,146
+fix
+
+
+CHANGES
+zhanghui · 11:28 · 5 months ago
+7,137
+发朋友圈  选择照片可以拍摄照片
+
+
+CHANGES
+zhanghui · 10:37 · 5 months ago
+7,135
+@消息不能@自己 Fix
+
+
+CHANGES
+zhanghui · 10:00 · 5 months ago
+7,134
+iOS用户在聊天界面内连续点击多次“按住讲话”“手指上滑，取消发送”会一直保留在聊天界面 Fix
+
+
+CHANGES
+haixiao · 09:47 · 5 months ago
+7,131
+fix
+
+
+CHANGES
+2019年1月18日 星期五
+zhanghui · 18:14 · 5 months ago
+7,124
+Fix
+
+
+CHANGES
+zhanghui · 18:14 · 5 months ago
+7,123
+3817 生活圈，点击发送图片，开始选择了四张图片，然后在加一张图片，所有图片都会被这张最新的一张图片所代替
+
+
+CHANGES
+zhanghui · 17:45 · 5 months ago
+7,121
+发布朋友圈界面显示错乱问题 fix
+
+
+CHANGES
+haixiao · 17:12 · 5 months ago
+7,119
+展开公众号列表显示
+
+
+CHANGES
+zhanghui · 16:29 · 5 months ago
+7,117
+3854 注册时候，验证码输入错误后，不刷新新的验证码，在输入正确的验证码，也会提示错误
+
+
+CHANGES
+zhanghui · 16:03 · 5 months ago
+7,116
+3856 讲课从最后一条消息开始录制，不能再最后一条消息结束录制
+
+
+CHANGES
+zhanghui · 15:49 · 5 months ago
+7,115
+3902 IOS程序杀死后，与我的Android、我的web聊天记录不在消息模块显示
+
+
+CHANGES
+zhanghui · 15:49 · 5 months ago
+7,114
+3886 通过通讯录添加用户，主动添加一方没有消息提醒（聊天记录没有“你们已成为好友”）
+
+
+CHANGES
+zhanghui · 10:34 · 5 months ago
+7,107
+加载图片放子线程处理
+
+
+CHANGES
+2019年1月17日 星期四
+zhanghui · 19:58 · 5 months ago
+7,102
+3857 Ios用户在群组内是管理员时，管理员关闭/开启全员禁言，在聊天界面显示群主关闭/开启全员禁言 fix
+
+
+CHANGES
+haixiao · 19:11 · 5 months ago
+7,092
+fix
+
+
+CHANGES
+zhanghui · 18:29 · 5 months ago
+7,089
+热门公众号 添加分页
+
+
+CHANGES
+haixiao · 17:57 · 5 months ago
+7,088
+广场公众号列表
+
+
+CHANGES
+zhanghui · 17:39 · 5 months ago
+7,086
+3863输入框多一页空白 fix
+
+
+CHANGES
+zhanghui · 16:52 · 5 months ago
+7,083
+重复点击删除群里的人，会提示删除的人名称与要删除的人名称不匹配，且删除不了，在群消息列表中有重复 fix
+
+
+CHANGES
+zhanghui · 12:22 · 5 months ago
+7,070
+群发消息，在文本框输入消息，在去选择动画，会将原来消息清空 fix
+
+
+CHANGES
+zhanghui · 12:13 · 5 months ago
+7,069
+群成员在群里修改群昵称。换行输入，更改的名称无效 fix
+
+
+CHANGES
+zhanghui · 11:57 · 5 months ago
+7,068
+用户在聊天界面内连续点击多次“按住讲话”“手指上滑，取消发送”会一直保留在聊天界面 fix
+
+
+CHANGES
+2019年1月16日 星期三
+haixiao · 19:49 · 5 months ago
+7,057
+3840 IOS输入表情后返回存成草稿为空，（暂时返回聊天界面未替换成表情）
+
+
+CHANGES
+haixiao · 16:10 · 5 months ago
+7,048
+3829 第一条测回消息无效
+
+
+CHANGES
+haixiao · 16:04 · 5 months ago
+7,047
+3833 点击录制语音，按住不松手，点击返回，会一直录制（btchat）
+
+
+CHANGES
+haixiao · 12:12 · 5 months ago
+7,038
+fix
+
+
+CHANGES
+haixiao · 11:31 · 5 months ago
+7,036
+群组中，没有头像显示其他人头像 fix
+
+
+CHANGES
+haixiao · 11:19 · 5 months ago
+7,035
+fix
+
+
+CHANGES
+2019年1月15日 星期二
+haixiao · 19:50 · 5 months ago
+7,019
+多点登录，收到Android发的消息，显示为空 fix
+
+
+CHANGES
+haixiao · 12:27 · 5 months ago
+7,005
+fix
+
+
+CHANGES
+haixiao · 11:47 · 5 months ago
+7,003
+fix
+
+
+CHANGES
+haixiao · 10:10 · 5 months ago
+6,988
+人数上限
+
+
+CHANGES
+2019年1月14日 星期一
+haixiao · 19:28 · 5 months ago
+6,970
+朋友圈视频出现左边空白问题 fix
+
+
+CHANGES
+haixiao · 18:02 · 5 months ago
+6,962
+隐藏发现菜单模式下，进入个人信息更新界面， 朋友圈图片消失
+
+
+CHANGES
+haixiao · 12:32 · 5 months ago
+6,944
+fix
+
+
+CHANGES
+haixiao · 12:26 · 5 months ago
+6,942
+fix
+
+
+CHANGES
+haixiao · 12:19 · 5 months ago
+6,941
+优化
+
+
+CHANGES
+haixiao · 12:02 · 5 months ago
+6,934
+英文缩短
+
+
+CHANGES
+haixiao · 10:02 · 5 months ago
+6,932
+国际化  +   个人中心下移
+
+
+CHANGES
+2019年1月12日 星期六
+zhanghui · 16:03 · 5 months ago
+6,897
+优化拍照录像
+
+
+CHANGES
+haixiao · 14:51 · 5 months ago
+6,894
+录像、拍照合一
+
+
+CHANGES
+haixiao · 14:34 · 5 months ago
+6,891
+我的界面限制名字宽度和更新名字后更新宽度
+
+
+CHANGES
+haixiao · 14:27 · 5 months ago
+6,889
+朋友圈、我的界面新UI
+
+
+CHANGES
+haixiao · 12:16 · 5 months ago
+6,886
+fix
+
+
+CHANGES
+haixiao · 12:14 · 5 months ago
+6,885
+修复朋友圈顶部图片收到新消息  图片无显示
+
+
+CHANGES
+zhanghui · 12:07 · 5 months ago
+6,882
+fix
+
+
+CHANGES
+zhanghui · 11:46 · 5 months ago
+6,881
+朋友圈重用问题 fix
+
+
+CHANGES
+haixiao · 10:31 · 5 months ago
+6,878
+数据库
+
+
+CHANGES
+2019年1月11日 星期五
+haixiao · 19:58 · 5 months ago
+6,876
+fix
+
+
+CHANGES
+haixiao · 19:57 · 5 months ago
+6,875
+扫一扫相册时 禁止扫描视频
+
+
+CHANGES
+zhanghui · 19:33 · 5 months ago
+6,873
+发送朋友圈选项调整顺序
+
+
+CHANGES
+zhanghui · 19:23 · 5 months ago
+6,872
+短视频标签页头部显示 fix
+
+
+CHANGES
+haixiao · 19:17 · 5 months ago
+6,871
+搜索公众号
+
+
+CHANGES
+haixiao · 19:16 · 5 months ago
+6,870
+fix
+
+
+CHANGES
+zhanghui · 18:22 · 5 months ago
+6,868
+Fix
+
+
+CHANGES
+zhanghui · 18:01 · 5 months ago
+6,866
+分享没安装 跳转到下载页，，& 分享显示优化
+
+
+CHANGES
+2019年1月10日 星期四
+haixiao · 17:27 · 5 months ago
+6,831
+朋友圈 换顶部图片
+
+
+CHANGES
+zhanghui · 16:19 · 5 months ago
+6,821
+fix
+
+
+CHANGES
+zhanghui · 16:04 · 5 months ago
+6,818
+提现后重新登录崩溃问题 fix
+
+
+CHANGES
+zhanghui · 14:53 · 5 months ago
+6,810
+无验证加好友显示问题 fix
+
+
+CHANGES
+zhanghui · 10:43 · 5 months ago
+6,799
+Fix
+
+
+CHANGES
+zhanghui · 10:34 · 5 months ago
+6,796
+短视频标签页
+
+
+CHANGES
+2019年1月9日 星期三
+zhanghui · 19:39 · 5 months ago
+6,784
+fix
+
+
+CHANGES
+2019年1月9日 星期三
+zhanghui · 19:08 · 5 months ago
+6,780
+fix
+
+
+CHANGES
+zhanghui · 17:32 · 5 months ago
+6,760
+fix
+
+
+CHANGES
+zhanghui · 17:05 · 5 months ago
+6,759
+杀死app 拉起崩溃问题 fix
+
+
+CHANGES
+zhanghui · 16:27 · 5 months ago
+6,753
+分享bug
+
+
+CHANGES
+zhanghui · 16:15 · 5 months ago
+6,751
+分享bug
+
+
+CHANGES
+haixiao · 10:05 · 5 months ago
+6,730
+短视频分类显示列表
+
+
+CHANGES
+2019年1月8日 星期二
+haixiao · 16:41 · 5 months ago
+6,704
+判断字典、数组是否为空
+
+
+CHANGES
+2019年1月6日 星期日
+zhanghui · 14:25 · 5 months ago
+6,608
+Config 接口包含特殊字符 访问失败 fix
+
+
+CHANGES
+2019年1月5日 星期六
+haixiao · 18:04 · 5 months ago
+6,606
+短视频选择音乐界面不隐藏状态栏
+
+
+CHANGES
+zhanghui · 15:18 · 5 months ago
+6,600
+Url 存在空格崩溃问题 fix
+
+
+CHANGES
+2019年1月4日 星期五
+zhanghui · 15:58 · 6 months ago
+6,581
+iPhone X 录制视频拉伸问题 fix
+
+
+CHANGES
+2019年1月3日 星期四
+haixiao · 17:57 · 6 months ago
+6,573
+聊天界面  滚动公告和最新消息跳转   适配
+
+
+CHANGES
+haixiao · 12:27 · 6 months ago
+6,567
+优化我的界面
+
+
+CHANGES
+haixiao · 11:22 · 6 months ago
+6,563
